@@ -1,0 +1,6 @@
+[user]
+	signingkey = 2CD997A02EFBED24
+	email = iotahacodes@gmail.com
+	name = Taha Farahani
+[commit]
+	gpgsign = true
